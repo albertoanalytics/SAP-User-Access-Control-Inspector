@@ -97,7 +97,7 @@ Execute the ABAP report using the transaction SE38 or your preferred method. The
 
 ## License
 
-This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for license rights and limitations.
+This project is licensed under the terms of the MIT license. See the [LICENSE](License.txt) file for license rights and limitations.
 
 [Return to Top](#sap-it-general-controls-user-access-control)
 

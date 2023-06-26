@@ -16,7 +16,7 @@ This repository contains an enhanced ABAP report for inspecting user access cont
 
 ## Project Description
 
-This ABAP report is part of a broader IT General Controls inspection process for SAP systems. IT General Controls are essential for ensuring the integrity, confidentiality, and availability of an organization's IT systems and data.
+This ABAP report in question plays an integral role within the larger spectrum of the IT General Controls assessment procedure specifically designed for SAP systems. The quintessential role of IT General Controls is to fortify the organization's IT systems and data, ensuring their integrity, confidentiality, and availability, thus contributing to a resilient and secure technological environment.
 
 Version 2.0 of the User Access Control ABAP report includes significant enhancements over the previous version. It now provides an Advanced List Viewer (ALV) display of users and their assigned roles, which aids in easy visualization and sorting of user access rights data. Additionally, system user checks have been improved for greater accuracy.
 
